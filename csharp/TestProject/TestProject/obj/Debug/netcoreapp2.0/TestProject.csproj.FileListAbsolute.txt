@@ -12,3 +12,17 @@ C:\Users\THughes\Projects\kata-skeleton\csharp\TestProject\TestProject\bin\Debug
 C:\Users\THughes\Projects\kata-skeleton\csharp\TestProject\TestProject\bin\Debug\netcoreapp2.0\TestProject.pdb
 C:\Users\THughes\Projects\kata-skeleton\csharp\TestProject\TestProject\obj\Debug\netcoreapp2.0\TestProject.dll
 C:\Users\THughes\Projects\kata-skeleton\csharp\TestProject\TestProject\obj\Debug\netcoreapp2.0\TestProject.pdb
+C:\Users\moboverflowuser\interns\kata-skeleton\csharp\TestProject\TestProject\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\moboverflowuser\interns\kata-skeleton\csharp\TestProject\TestProject\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\moboverflowuser\interns\kata-skeleton\csharp\TestProject\TestProject\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\moboverflowuser\interns\kata-skeleton\csharp\TestProject\TestProject\bin\Debug\netcoreapp2.0\TestProject.deps.json
+C:\Users\moboverflowuser\interns\kata-skeleton\csharp\TestProject\TestProject\bin\Debug\netcoreapp2.0\TestProject.runtimeconfig.json
+C:\Users\moboverflowuser\interns\kata-skeleton\csharp\TestProject\TestProject\bin\Debug\netcoreapp2.0\TestProject.runtimeconfig.dev.json
+C:\Users\moboverflowuser\interns\kata-skeleton\csharp\TestProject\TestProject\bin\Debug\netcoreapp2.0\TestProject.dll
+C:\Users\moboverflowuser\interns\kata-skeleton\csharp\TestProject\TestProject\bin\Debug\netcoreapp2.0\TestProject.pdb
+C:\Users\moboverflowuser\interns\kata-skeleton\csharp\TestProject\TestProject\obj\Debug\netcoreapp2.0\TestProject.csprojAssemblyReference.cache
+C:\Users\moboverflowuser\interns\kata-skeleton\csharp\TestProject\TestProject\obj\Debug\netcoreapp2.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\moboverflowuser\interns\kata-skeleton\csharp\TestProject\TestProject\obj\Debug\netcoreapp2.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\moboverflowuser\interns\kata-skeleton\csharp\TestProject\TestProject\obj\Debug\netcoreapp2.0\TestProject.AssemblyInfo.cs
+C:\Users\moboverflowuser\interns\kata-skeleton\csharp\TestProject\TestProject\obj\Debug\netcoreapp2.0\TestProject.dll
+C:\Users\moboverflowuser\interns\kata-skeleton\csharp\TestProject\TestProject\obj\Debug\netcoreapp2.0\TestProject.pdb
